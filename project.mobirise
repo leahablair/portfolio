@@ -43,6 +43,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#f28281"
+            }
+          },
           "_anchor": "msg-box5-4",
           "_params": {
             "imageSize": "39",
@@ -89,12 +94,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<p><b>email:</b> leahablair@gmail.com &nbsp;&nbsp;&nbsp;&nbsp;<b>phone:</b> 610.342.6754 &nbsp;&nbsp;&nbsp;&nbsp;<a href=\"blair_resume.pdf\" target=\"_blank\">Resume</a></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#f28281"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -106,6 +106,36 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blastpromo-2000x5254-800x2101.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blastpromo-2000x5254.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flashsalefriday-1024x400-min-2000x783-800x313.png",
+                "image": "@PROJECT_PATH@/assets/images/flashsalefriday-1024x400-min-2000x783.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/easterbunnyname-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/easterbunnyname-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Animated",
                 "playVideo": false,
@@ -141,6 +171,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/springfever-1920x575-min-2000x598-800x239.png",
+                "image": "@PROJECT_PATH@/assets/images/springfever-1920x575-min-2000x598.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/vibrant-2000x2905-800x1162.jpg",
                 "image": "@PROJECT_PATH@/assets/images/vibrant-2000x2905.jpg",
                 "caption": "Type caption here",
@@ -151,8 +191,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/facebook-800x418.png",
+                "image": "@PROJECT_PATH@/assets/images/facebook.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flatstickerslarge-2000x1093-800x437.png",
                 "image": "@PROJECT_PATH@/assets/images/flatstickerslarge-2000x1093.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/googlestorescreens-2000x3333-800x1333.png",
+                "image": "@PROJECT_PATH@/assets/images/googlestorescreens-2000x3333.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -177,6 +237,16 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/techindailylife-2000x1028-800x411.png",
+                "image": "@PROJECT_PATH@/assets/images/techindailylife-2000x1028.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -187,12 +257,32 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/features-redesign2-2000x4356-800x1742.jpg",
+                "image": "@PROJECT_PATH@/assets/images/features-redesign2-2000x4356.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/boxoutofbag-2000x1336-800x534.jpg",
                 "image": "@PROJECT_PATH@/assets/images/boxoutofbag-2000x1336.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/youshouldknow-2000x500-800x200.png",
+                "image": "@PROJECT_PATH@/assets/images/youshouldknow-2000x500.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -213,6 +303,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dutchmen2large-2000x2591-800x1036.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dutchmen2large-2000x2591.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/xmasbannersc-2000x2665-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/xmasbannersc-2000x2665.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -291,6 +391,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nn-backtoschool-800x670.png",
+                "image": "@PROJECT_PATH@/assets/images/nn-backtoschool.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/printadsnew3large-2000x2728-800x1091.jpg",
                 "image": "@PROJECT_PATH@/assets/images/printadsnew3large-2000x2728.jpg",
                 "caption": "Type caption here",
@@ -331,6 +441,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/badonlinebehavior-2000x7391-800x2956.jpg",
+                "image": "@PROJECT_PATH@/assets/images/badonlinebehavior-2000x7391.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ynotphone-2000x2756-800x1102.png",
                 "image": "@PROJECT_PATH@/assets/images/ynotphone-2000x2756.png",
                 "caption": "Type caption here",
@@ -353,6 +473,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dutchmen3large-2000x2588-800x1035.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dutchmen3large-2000x2588.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobileapps-2000x4340-800x1736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobileapps-2000x4340.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -543,16 +673,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ct-2000x1346-800x538.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ct-2000x1346.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ss4-2000x1135-800x454.png",
-                "image": "@PROJECT_PATH@/assets/images/ss4-2000x1135.png",
                 "caption": "Type caption here",
                 "active": false
               }
